@@ -1,0 +1,4 @@
+t깃을 사용하면
+
+  git config --global user.email "kmoukhj0126@gmail.com"
+  git config --global user.name "rachiyuhu"
